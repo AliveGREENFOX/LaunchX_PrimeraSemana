@@ -23,6 +23,7 @@ Toma de requerimientos
 
 ## Buyer Persona:
 
+
 ## Público objetivo
 
 ## UX
