@@ -29,3 +29,4 @@ Toma de requerimientos
 ## UX
 ![](/assets/Images/Abogabot_UX.jpg)
 ## UI
+![](/assets/Images/Abogabot__UI_2.jpg)
