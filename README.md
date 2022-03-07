@@ -22,7 +22,7 @@ Toma de requerimientos
 9.	Solicitud de pagos para los clientes
 
 ## Buyer Persona:
-
+/assets/images/Abogabot_UI.jpg
 
 ## Público objetivo
 
